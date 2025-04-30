@@ -56,7 +56,7 @@ Screenshots documenting each step have been uploaded to this repository for refe
 
 ---
 
-**Project Completed by:** [Your Name]
+**Project Completed by:** [Nejdet yalcin]
 
 📂 View all screenshots and related files in the [Screenshots Folder](./screenshots).
 
