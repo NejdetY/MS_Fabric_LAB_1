@@ -56,8 +56,8 @@ Screenshots documenting each step have been uploaded to this repository for refe
 
 ---
 
-**Project Completed by:** [Nejdet yalcin]
+**Project Completed by:** [Nejdet Yalcin]
 
-📂 View all screenshots and related files in the [Screenshots Folder](./screenshots).
+
 
 ---
